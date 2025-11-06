@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9ed8ec35.css",
+    "main.js": "/static/js/main.d5cb419e.js",
+    "static/media/GothamLight.ttf": "/static/media/GothamLight.03e7ff609ba3bf798fa4.ttf",
+    "static/media/GothamMedium.ttf": "/static/media/GothamMedium.0a910c0b9d50be6aa3dc.ttf",
+    "static/media/spotify.png": "/static/media/spotify.78437a1b9d17a9dccb90.png",
+    "index.html": "/index.html",
+    "main.9ed8ec35.css.map": "/static/css/main.9ed8ec35.css.map",
+    "main.d5cb419e.js.map": "/static/js/main.d5cb419e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ed8ec35.css",
+    "static/js/main.d5cb419e.js"
+  ]
+}
